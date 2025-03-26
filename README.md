@@ -9,5 +9,5 @@ I am 20 years old, currently in my second year of college pursuing a Bachelor of
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,mysql,php,git,androidstudio,vscode,ps)](https://skillicons.dev)
 
-<p><a target="_blank" href="https://www.linkedin.com/in/Mark Matthew Masalunga" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<a target="_blank" href="https://www.facebook.com/materrr" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a></p>
+[![LinkedIn](https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6)](https://www.linkedin.com/in/Mark%20Matthew%20Masalunga) 
+[![Facebook](https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff)](https://www.facebook.com/materrr)
