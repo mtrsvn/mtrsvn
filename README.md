@@ -7,5 +7,5 @@ I am 20 years old, currently in my second year of college pursuing a Bachelor of
 
 # 💻 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,mysql,php,git,androidstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,mysql,php,git,androidstudio,vscode,ps)](https://skillicons.dev)
 
