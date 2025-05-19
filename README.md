@@ -5,9 +5,14 @@ I am 20 years old, currently in my second year of college pursuing a Bachelor of
 📚 Currently exploring **HTML, CSS, JavaScript, and React**  
 🚀 Expanding my skills in **SQL, Firebase, and Backend Development**
 
+### 📖 Portfolio  
+🔗 [**Visit mtrsvn.live**](https://mtrsvn.live)
+
 # 💻 Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,java,mysql,php,git,androidstudio,vscode,ps)](https://skillicons.dev)
 
-[![Facebook](https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff)](https://www.facebook.com/materrr)
-[![LinkedIn](https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6)](https://ph.linkedin.com/in/mark-matthew-masalunga-953569338) 
+# 📫 Connect with me
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/materrr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://ph.linkedin.com/in/mark-matthew-masalunga-953569338)
