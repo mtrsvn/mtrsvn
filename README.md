@@ -6,7 +6,7 @@ I am 20 years old, currently in my second year of college pursuing a Bachelor of
 🚀 Expanding my skills in **SQL, Firebase, and Backend Development**
 
 ### 📖 Portfolio  
-🔗 [**Visit mtrsvn.live**](https://mtrsvn.live)
+🔗 https://mtrsvn.live
 
 # 💻 Languages and Tools
 
