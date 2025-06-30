@@ -2,7 +2,7 @@
 
 I am 20 years old, currently in my second year of college pursuing a Bachelor of Science in Information Technology (BSIT). Just starting out in web and app development, learning as I go and building small projects to improve.  
 
-📚 Currently exploring **Front-End Development*  
+📚 Currently exploring **Front-End Development**
 🚀 Expanding my skills in **Back-End Development**
 
 ### 📖 Portfolio  
