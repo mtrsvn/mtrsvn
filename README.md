@@ -6,7 +6,7 @@ I am 20 years old, currently in my third year of college pursuing a Bachelor of 
 
 🚀 Expanding my skills in **Back-End Development**
 
-🔗 Portfolio: https://mtrsvn.live
+🔗 Portfolio: https://www.mtrsvn.live
 
 # 💻 Tech Stack
 
