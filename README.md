@@ -10,7 +10,7 @@ I am 20 years old, currently in my third year of college pursuing a Bachelor of 
 
 # 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,javascript,html,css,php,mysql,git,github,vercel,vscode,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,node,monggodb,javascript,html,css,php,mysql,git,github,vercel,vscode,figma)](https://skillicons.dev)
 
 # 📫 Connect with me
 
