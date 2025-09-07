@@ -6,7 +6,7 @@ Currently in my third year of college, pursuing a Bachelor of Science in Informa
 
 # 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,bootstrap,tailwind,react,php,nodejs,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,react,bootstrap,tailwind,php,nodejs,mysql,mongodb)](https://skillicons.dev)
 
 # 📫 Connect with me
 
