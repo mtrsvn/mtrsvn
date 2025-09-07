@@ -12,6 +12,3 @@ Currently in my third year of college, pursuing a Bachelor of Science in Informa
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/materrr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://ph.linkedin.com/in/mark-matthew-masalunga-953569338)
-
-
-# mtrsvn
