@@ -6,25 +6,11 @@ Currently in my third year of college, pursuing a Bachelor of Science in Informa
 
 ### 💻 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-### 🔗 Socials
-
-<a href="https://www.facebook.com/materrr" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook"/>
-</a>
-<a href="https://ph.linkedin.com/in/mark-matthew-masalunga-953569338" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="YOUR_INSTAGRAM_URL" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"/>
-</a>
+![JavaScript](https://img.shields.io/badge/javascript-%23FDE68A.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%23A5F3FC.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23C4B5FD.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%23A7F3D0.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23D9A8F2.svg?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%23B6F0A3.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%23A0E7FF.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%23B8E6A3.svg?style=for-the-badge&logo=mongodb&logoColor=white)
