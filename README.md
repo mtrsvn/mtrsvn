@@ -10,6 +10,6 @@ Currently in my third year of college, pursuing a Bachelor of Science in Informa
 
 # 📫 Connect with me
 
-[![Facebook](https://skillicons.dev/icons?i=facebook)](https://www.facebook.com/materrr)
+[![Facebook](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg)](https://www.facebook.com/materrr)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/mtrsvn_)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mark-matthew-masalunga-953569338)
