@@ -4,4 +4,4 @@ BSIT student developer passionate about building dynamic, user-friendly web and 
 
 # 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,bootstrap,tailwind,php,nodejs,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,bootstrap,tailwind,php,nodejs,express,mysql,mongodb)](https://skillicons.dev)
