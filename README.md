@@ -5,3 +5,4 @@ BSIT student developer passionate about building dynamic, user-friendly web and 
 # 💻 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,bootstrap,tailwind,php,nodejs,express,mysql,mongodb)](https://skillicons.dev)
+[![My Discord Status](https://discord-readme-badge.onrender.com/api?id=1350328377755570186&theme=dark)](https://discord.com/users/1350328377755570186)
