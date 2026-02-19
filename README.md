@@ -5,3 +5,4 @@ BSIT student developer passionate about building dynamic, user-friendly web and 
 # 💻 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,dart,flutter,bootstrap,tailwind,php,nodejs,express,mysql,mongodb,firebase)](https://skillicons.dev)
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB 
